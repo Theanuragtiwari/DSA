@@ -45,3 +45,19 @@ This repository is not only a collection of code but also a record of dedication
 Thank you for visiting this repository and following along on my 100 Days of Code journey. Feel free to explore, provide feedback, or share your own coding experiences.
 
 Happy Coding! 💻✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Theanuragtiwari/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Theanuragtiwari/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Theanuragtiwari/DSA/tree/master/0543-diameter-of-binary-tree) |
+<!---LeetCode Topics End-->
